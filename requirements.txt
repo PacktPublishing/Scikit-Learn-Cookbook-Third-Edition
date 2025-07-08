@@ -2,6 +2,7 @@ jupyter==1.0.0
 matplotlib>=3.9.2
 pandas>=2.0.2
 scikit-learn>=1.5.0
+seaborn>=0.12.2
 ipykernel==6.23.1
 notebook==6.5.4
 nltk
